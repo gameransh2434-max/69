@@ -1,0 +1,13 @@
+{
+  "name": "qwe-community",
+  "version": "1.0.0",
+  "description": "QWE Community reward platform",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "setup": "node setup.mjs"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
