@@ -1,1 +1,1 @@
-web: node server.mjs
+web: node setup.mjs && node server.mjs
